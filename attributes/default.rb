@@ -23,4 +23,4 @@ default['java']['jce_policy']['7']['url'] = 'https://s3.amazonaws.com/promojam-d
 default['java']['jce_policy']['7']['checksum'] = '7a8d790e7bd9c2f82a83baddfae765797a4a56ea603c9150c87b7cdb7800194d'
 
 default['java']['jce_policy']['8']['url'] = 'https://s3.amazonaws.com/coldfusion-installers.invisionapp.com/UnlimitedJCEPolicyJDK8.zip'
-default['java']['jce_policy']['8']['checksum'] = 'f3020a3922efd6626c2fff45695d527f34a8020e938a49292561f18ad1320b59'
+default['java']['jce_policy']['8']['checksum'] = '4e2da4af60befe452696464439c23db8ebf2a46c2416e01eced5454b19bd98a8'
